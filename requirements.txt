@@ -1,6 +1,6 @@
 streamlit
-smartapi-python
+smartapi
 pandas
-pandas_ta
+numpy
 pyotp
 requests
