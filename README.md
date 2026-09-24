@@ -1,1 +1,4 @@
-# My-SMC-APP.SK
+streamlit
+smartapi-python
+pandas
+pyotp
